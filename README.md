@@ -7,7 +7,9 @@ Currently Learning
  - Python (Pandas, NumPy) 
  - SQL (Joins, Aggregations, Filtering)
  -  Google Cloud Fundamentals
- -  Git & GitHub ## 🛠 Tools & Technologies 
+ -  Git & GitHub
+ 
+ Tools & Technologies 
  -   Python | SQL | Power BI | Excel - Git | GitHub | HackerRank | LeetCode - Google Cloud (Learning)
 
  Projects - HPV Vaccination Impact Analysis (Power BI)
